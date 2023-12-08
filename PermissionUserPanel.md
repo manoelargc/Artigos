@@ -1,6 +1,6 @@
 # Como Permitir o Acesso do Usuário ao Painel
 
-Para permitir que um usuário acesse o painel, é necessário seguir alguns passos. Neste artigo, vamos guiá-lo através deste processo de maneira detalhada.
+Para permitir que um usuário acesse o painel, é necessário seguir alguns passos. Neste artigo, vamos guiá-lo através deste processo de maneira detalhada para conseguir permitir a um usuário acessar o painel VendaERP.
 
 ## Passo 1: Verifique se o usuário está cadastrado
 Antes de começar, é importante notar que o usuário já deve estar cadastrado no sistema. Caso não esteja, sugerimos a leitura do artigo em nossa central AprendaERP de ["Como cadastrar Usuários no Sistema ERP"](https://ajuda.aprendaerp.com.br/configuracoes/como-cadastrar-usuarios-no-sistema-erp) na Central de Ajuda Aprenda ERP.
