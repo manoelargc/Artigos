@@ -1,4 +1,4 @@
-# Como Informar um Contato Válido para a Venda no Sistema ERP
+# Atenção: ao informar um contato para a venda, ele deve ser válido
 
 É comum que ao realizar uma venda, orçamento ou ordem de serviço, este alerta "Ao informar um contato para a venda, ele deve ser válido" seja apresentado a você, impedindo a finalização. Se você tentou cadastrar um número de telefone, ou qualquer outra forma de contato, fique tranquilo, não é um erro do sistema.
 o campo "Contato do Cliente" é relacionado à aba "Contatos", no cadastro do cliente. Deve ser preenchido com o nome do contato cadastrado No entanto, para resolver essa inconsistência é muito simples, primeiramente, é necessário que o contato esteja vinculado obrigatoriamente ao cliente da venda. Aqui está um guia passo a passo para garantir que você está seguindo o processo corretamente.
