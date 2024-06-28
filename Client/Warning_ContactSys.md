@@ -5,6 +5,8 @@ o campo "Contato do Cliente" é relacionado à aba "Contatos", no cadastro do cl
 
 ![image](https://github.com/manoelargc/Artigos/assets/105336239/0f9dbeb9-2707-4409-8497-eaf87665e15f)
 
+Fluxo geral: ```Menu Lateral > Cadastros > Pessoas > selecione o cliente da venda > aba Contatos > Adicionar Contato```
+
 
 #### Passo a Passo para Cadastrar e Vincular um Contato
 
@@ -12,7 +14,6 @@ o campo "Contato do Cliente" é relacionado à aba "Contatos", no cadastro do cl
    - No menu lateral, vá até a opção **Cadastros**.
    - Selecione **Pessoas**.
 
-<!-- fluxo: ```Menu Lateral > Cadastros > Pessoas > selecione o cliente da venda > aba "Contatos"``` -->
 
    ![Menu Lateral de Cadastros](https://github.com/manoelargc/Artigos/assets/105336239/881822b6-69b1-4939-8533-3170900113e8)
 
